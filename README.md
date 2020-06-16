@@ -46,10 +46,10 @@ $python copy_of_dcr.py
 
 1. 실행 결과
 
-![img2](./static/capture.png)
+![img2](static/capture.png)
 
 
 2. 저장되는 파일 결과
 
-![img2](./static/capture2.png)
+![img2](static/capture2.png)
 
